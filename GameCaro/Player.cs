@@ -9,7 +9,7 @@ namespace GameCaro
 {
     public class Player
     {
-        private string name;    // Ctrl + R + E
+        private string name;   
 
         public string Name
         {
